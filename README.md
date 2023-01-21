@@ -15,7 +15,7 @@ C:\Users\ravi > clj <br>
 C:\Users\ravi > (require '[hello]) <br>
 C:\Users\ravi > (hello/run) <br>
 
-** call in R ** <br>
+**call in R** <br>
 ```{r}
 library(httr)
 library(jsonlite)
@@ -31,3 +31,4 @@ req <- POST(url, body = j, encode = "json")
 res <- content(req, type = "text", encoding = "UTF-8")
 res <- fromJSON(res)
 res
+```
