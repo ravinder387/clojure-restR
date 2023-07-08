@@ -12,9 +12,9 @@ using mostly functions only. In clojure's Ist priority is Data > Function > Macr
 We can use this code by REPL, war, jar, aot compilation, graalvm native code, docker...etc Most easiest way to use REPL<br>
 ----------- DEMO IN WINDOWS MACHINE ----------------------- <br>
 **first go to clojure-restR folder then open terminal** <br>
-C:\Users\ravi > clj <br>
-C:\Users\ravi > (require '[hello]) <br>
-C:\Users\ravi > (hello/run) <br>
+C:\Users\ravi\clojure-restR > clj <br>
+C:\Users\ravi\clojure-restR > (require '[hello]) <br>
+C:\Users\ravi\clojure-restR > (hello/run) <br>
 
 **call in R** <br>
 ```{r}
