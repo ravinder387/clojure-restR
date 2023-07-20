@@ -7,9 +7,7 @@ it doesn't provide router, and many things. It is kind a subset http server you 
 web framework, internet based application. It's just like low-level http server. It provide few middleware to work <br>
 In this code I wrote my own middleware. Clojure is language with lisp syntax and great thing about lisp syntax(prefix notation only) <br>
 that it doesn't need associativity and precedence rules in syntax structure like other lang c,c++,python,java almost 85% language need <br>
-and this feature make code easier to understand code for progammer and cpu also. It's much easier to map machine code by lisp syntax <br>
-infact all language convert their syntax into some kind of lispy syntax before code reach to cpu. most of libraries written <br>
-using mostly functions only. In clojure's Ist priority is Data > Function > Macros <br> <br>
+and this feature make code easier to understand code for progammer and cpu also.In clojure's Ist priority is Data > Function > Macros <br> <br>
 
 ### How to use <br>
 We can use this code by REPL, war, jar, aot compilation, graalvm native code, docker...etc Most easiest way to use REPL<br>
