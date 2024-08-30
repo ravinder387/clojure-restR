@@ -6,8 +6,8 @@ This code entirely written using ring-clojure libray which handle http request m
 it doesn't provide router, and many things. It is kind a subset http server you can use this to build own web server, <br>
 web framework, internet based application. It's just like low-level http server. It provide few middleware to work <br>
 In this code I wrote my own middleware. Clojure is language with lisp syntax and great thing about lisp syntax(prefix notation only) <br>
-that it doesn't need associativity and precedence rules in syntax structure like other lang c,c++,python,java almost 85% language need <br>
-and this feature make code easier to understand code for progammer and cpu also.In clojure's Ist priority is Data > Function > Macros <br> <br>
+that it doesn't need associativity and precedence rules in syntax structure like other lang c,c++,python,java languages need <br>
+and this feature make code easier to understand code for programmer as well as cpu also.In clojure's Ist priority is given to Data > Function > Macros <br> <br>
 
 ### How to use <br>
 We can use this code by REPL, war, jar, aot compilation, graalvm native code, docker...etc Most easiest way to use REPL<br>
