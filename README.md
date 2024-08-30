@@ -3,9 +3,9 @@ this is demo to call clojure from R programming by rest api <br>
 
 ### Intro <br>
 This code entirely written using ring-clojure libray which handle http request mainly. It is not full http server <br>
-it doesn't provide router, and many things. It is kind a subset http server you can use this to build own web server, <br>
+it doesn't provide router, and many things. It is kind a subset http server you can use this to build own web server, 
 web framework, internet based application. It's just like low-level http server. It provide few middleware to work <br>
-In this code I wrote my own middleware. Clojure is language with lisp syntax and great thing about lisp syntax(prefix notation only) <br>
+In this code I wrote my own middleware. Clojure is language with lisp syntax and great thing about lisp syntax(prefix notation only) 
 that it doesn't need associativity and precedence rules in syntax structure like other lang c,c++,python,java languages need <br>
 and this feature make code easier to understand code for programmer as well as cpu also.In clojure's Ist priority is given to Data > Function > Macros <br> <br>
 
